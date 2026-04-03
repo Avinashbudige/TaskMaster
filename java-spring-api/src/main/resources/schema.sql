@@ -1,0 +1,1 @@
+-- Optional local copy; shared canonical schema is in /database/schema.sql
